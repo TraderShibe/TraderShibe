@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Trader Shibe
+GenericName=Secure Multi Trading Client
+Exec=Trader Shibe
+Icon=Trader Shibe
+Terminal=false
+Type=Application
+Categories=Qt;Office;Finance;
+

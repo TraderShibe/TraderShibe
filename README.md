@@ -10,7 +10,7 @@
 
 > `   Download:
 You can download the standalone executable from here 
-and the source from here.`
+and the source from https://github.com/TraderShibe/TraderShibe/archive/master.zip .`
 
 -------------
 Trader Shibe is the first API based Dogecoin trader, made exclusively for Dogecoin. Although made exclusively for Dogecoin, it is not limited to it and can trade any pair combination on a given exchange. Trader Shibe supports only the exchanges that allow Dogecoin trading, currently it is possible to trade on 3 major exchanges that have the highest Dogecoin trading volume:
